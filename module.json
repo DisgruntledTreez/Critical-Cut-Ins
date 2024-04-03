@@ -4,9 +4,9 @@
 	"description": "A module to implement Cut-In screens on critical hits similar to Persona",
 	"authors": [
 		{
-			name: "DisgruntledTreez"
+			"name": "DisgruntledTreez"
 		}
 	],
 	"version": "1",
-	"minimumCoreVersion": "0.8.8",
+	"minimumCoreVersion": "0.8.8"
 }
