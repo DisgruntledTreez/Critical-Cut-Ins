@@ -8,5 +8,23 @@
 		}
 	],
 	"version": "1",
-	"minimumCoreVersion": "0.8.8"
+	"minimumCoreVersion": "0.8.8",
+	"scripts": [
+		"scripts/cut-ins.js"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "languages/en.json"
+		}
+	],
+	"styles": [
+		"styles/cut-ins.css"
+	]
+
+
+
+
+
 }
